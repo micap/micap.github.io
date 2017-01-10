@@ -29,3 +29,20 @@ p
 {
 	text-align:center;
 }
+
+#center-block
+{
+	width: 70%;
+	margin-left: 15%;
+}
+
+ul
+{
+	list-style: none;
+	text-align:center;
+}
+
+ul li
+{
+	display: inline;
+}
