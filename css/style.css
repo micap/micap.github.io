@@ -30,19 +30,19 @@ p
 	text-align:center;
 }
 
-#center-block
+div.center-block
 {
 	width: 70%;
 	margin-left: 15%;
 }
 
-ul
+ul.one-line
 {
 	list-style: none;
 	text-align:center;
 }
 
-ul li
+ul.one-line li
 {
 	display: inline;
 }
